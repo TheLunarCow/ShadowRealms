@@ -1,0 +1,10 @@
+name: MainClass
+main: me.Main.MainClass
+version: 1.0
+description: The entirety of ShadowRealms
+author: ShadowRealmss Team
+commands:
+   econ:
+     description: Manages the economy.
+   coins:
+     decription: Shows how many coins you have.
